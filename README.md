@@ -1,4 +1,4 @@
-# My Educational App
+# StudySync
 
 ## Overview
 
